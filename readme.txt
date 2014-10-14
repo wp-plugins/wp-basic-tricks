@@ -1,6 +1,6 @@
 === WP Basic Tricks ===
 Contributors: tricksofit
-Tags: tricks, admin bar, post revision, revision, meta tag, generator, autosave, autosave interval,
+Tags: tricks, admin bar, post revision, revision, meta tag, generator, autosave, autosave interval, rss, feeds, featured image, rss image
 Requires at least: 3.6
 Tested up to: 4.0
 Stable tag: 1.3
@@ -21,6 +21,7 @@ Read more link http://www.tricksofit.com/2014/09/some-useful-basic-tricks-of-wor
  - Remove wordpress generator meta tag
  - Disable post autosave or change autosave interval
  - Change limit for post revisions or disable post revision
+ - Enable featured image in RSS Feeds
 
 == Installation ==
 
@@ -39,6 +40,9 @@ Go to Wordpress settings -> WP Basic Tricks and change the settings according to
 
 == Changelog ==
 
+= 1.3 =
+* Added: an option to add featured image in RSS feeds.
+
 = 1.1 =
 * Fixed: Blank limit post revision field generating the code for disable post revision.
 
@@ -48,6 +52,9 @@ Go to Wordpress settings -> WP Basic Tricks and change the settings according to
 
 
 == Upgrade Notice ==
+
+= 1.3 =
+* An option to add featured image in RSS feeds.
 
 = 1.1 =
 Fixed Blank limit post revision field issue.
