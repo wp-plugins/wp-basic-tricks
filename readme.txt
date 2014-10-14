@@ -3,7 +3,7 @@ Contributors: tricksofit
 Tags: tricks, admin bar, post revision, revision, meta tag, generator, autosave, autosave interval,
 Requires at least: 3.6
 Tested up to: 4.0
-Stable tag: 1.1
+Stable tag: 1.3
 License: GPLv2
 
 Some Basic tricks to manage admin bar, post autosave and post revision.
