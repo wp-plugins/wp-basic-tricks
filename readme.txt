@@ -2,8 +2,8 @@
 Contributors: tricksofit
 Tags: tricks, admin bar, post revision, revision, meta tag, generator, autosave, autosave interval, rss, feeds, featured image, rss image
 Requires at least: 3.6
-Tested up to: 4.0
-Stable tag: 1.3
+Tested up to: 4.2.2
+Stable tag: 1.3.1
 License: GPLv2
 
 Some Basic tricks to manage admin bar, post autosave and post revision.
@@ -40,6 +40,9 @@ Go to Wordpress settings -> WP Basic Tricks and change the settings according to
 
 == Changelog ==
 
+= 1.3.1 =
+Tested on 4.2.2.
+
 = 1.3 =
 * Added: an option to add featured image in RSS feeds.
 
@@ -53,8 +56,11 @@ Go to Wordpress settings -> WP Basic Tricks and change the settings according to
 
 == Upgrade Notice ==
 
+= 1.3.1 =
+Tested on 4.2.2.
+
 = 1.3 =
-* An option to add featured image in RSS feeds.
+An option to add featured image in RSS feeds.
 
 = 1.1 =
 Fixed Blank limit post revision field issue.
